@@ -1,0 +1,1 @@
+he fgets() function keeps on reading characters until:

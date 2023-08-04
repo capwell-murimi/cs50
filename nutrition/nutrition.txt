@@ -1,0 +1,6 @@
+nutrition.py
+ask users   to  input   case    insensitive fruits.
+it  will    output  the calories.igonore    captalisation.
+make    a   dict  that  will    store   all the fruits.
+fruitname   is  the key while   calories    are the values.
+user    inputs  key then    a   value   is  the output.

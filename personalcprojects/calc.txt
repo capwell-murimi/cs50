@@ -1,0 +1,2 @@
+use two funtions add and subtract . to calculate sum or difference .
+if the first number is greater than the second the sum is calculated otherwise the difference is calculated.
